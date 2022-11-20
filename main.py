@@ -1,7 +1,7 @@
 
 from blizzardapi import BlizzardApi
-from wowapi import WowApi
-import json
+#from wowapi import WowApi
+#import json
 import requests
 api_client = BlizzardApi("0f849df7ee2e4afd837b0762b8a86d9a", "ufpxBOICbmx4NvqKO0k9ehGV4uGDsP3R")
 access_token = "US2Av9Yt8Z5j683XZPcSDkelNG0uHD46wH"
